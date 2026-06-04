@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="80" fill="#15151a"/>
+  <rect x="40" y="238" width="432" height="1" fill="#c9a14a" opacity="0.35"/>
+  <text x="256" y="196" font-family="Georgia,serif" font-size="72" font-weight="400" fill="#e8c97a" text-anchor="middle" letter-spacing="12">S.T.</text>
+  <text x="256" y="302" font-family="Georgia,serif" font-size="50" font-weight="400" fill="#c9a14a" text-anchor="middle" letter-spacing="8">DUPONT</text>
+  <text x="256" y="362" font-family="Georgia,serif" font-size="22" font-weight="400" fill="#9a968c" text-anchor="middle" letter-spacing="14">PARIS</text>
+</svg>
